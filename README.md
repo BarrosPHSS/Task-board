@@ -79,4 +79,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 Autor
 
-Seu BarrosPHSS - https://github.com/BarrosPHSS
+BarrosPHSS - https://github.com/BarrosPHSS
